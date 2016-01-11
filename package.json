@@ -1,0 +1,21 @@
+{
+  "name": "bitmap-helpers",
+  "version": "1.0.0",
+  "description": "A collection of functions to help read, write, and modify bitmaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "samheutmaker@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bitmap-transformations": "^1.0.0",
+    "lodash": "^3.10.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "bitmap-helpers@1.0.0",
+  "_shasum": "67c96b65e4befb4073667c18ab23f365c25880a8",
+  "_from": "bitmap-helpers@*"
+}
