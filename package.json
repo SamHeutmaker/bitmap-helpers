@@ -1,21 +1,36 @@
 {
   "name": "bitmap-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of functions to help read, write, and modify bitmaps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "samheutmaker@gmail.com"
-  },
+  "author": "samheutmaker@gmail.com",
   "license": "MIT",
   "dependencies": {
     "bitmap-transformations": "^1.0.0",
     "lodash": "^3.10.1"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "bitmap-helpers@1.0.0",
   "_shasum": "67c96b65e4befb4073667c18ab23f365c25880a8",
-  "_from": "bitmap-helpers@*"
+  "_from": "bitmap-helpers@*",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHeutmaker/bitmap-helpers.git"
+  },
+  "keywords": [
+    "bitmap",
+    "helper",
+    "functions",
+    "image",
+    "manipulations",
+    "read",
+    "write",
+    "modify"
+  ],
+  "bugs": {
+    "url": "https://github.com/SamHeutmaker/bitmap-helpers/issues"
+  },
+  "homepage": "https://github.com/SamHeutmaker/bitmap-helpers#readme"
 }
